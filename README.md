@@ -39,7 +39,7 @@ Leveraging 15+ years of clinical experience to build technology that makes healt
 - 🚀 Launched first npm package with 100% test coverage
 - 📊 Built CoagRX serving evidence-based guidelines to clinicians
 - 🧬 Filed provisional patent for AI-powered clinical decision support
-- 📝 Program Director for ACGME-accredited fellowship
+- 📝 Program Director for Acute Pain and Regional Anesthesiology fellowship
 
 ### 🤝 Let's Connect
 
